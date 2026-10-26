@@ -1,15 +1,22 @@
-# SOCIO-ECONOMIC TRENDS STUDY OF DISTRIBUTION OF CENTRAL HEATING AND HEALTH OUTCOMES IN ENGLAND & WALES 2011 & 2021 
+# Socio-Economic Trends Study: Central Heating Deprivation and Health Outcomes in England & Wales (2011 & 2021)
 
-This project analyses how household heating deprivation and health outcomes vary across Local Authorities in England and Wales, comparing 2011 and 2021 census-era data. The work combines data cleaning, geographic harmonisation, Bayesian regression, dimensionality reduction, and Tableau-ready exports to explore socio-economic drivers of poor heating access and related health outcomes.
+This project analyses how household heating deprivation and health outcomes vary across Local Authorities in England and Wales, comparing 2011 and 2021 census data. The work combines data cleaning, geographic harmonisation, Bayesian regression, dimensionality reduction, and interactive Tableau visualisations to explore socio-economic drivers of poor heating access and related health outcomes.
 
 ## Research question
 
 What socio-economic factors — occupational class, housing tenure, and age — predict whether a household lacks central heating across Local Authorities in England and Wales, and does the absence of heating correlate with worse self-reported health outcomes between 2011 and 2021?
 
+## Key findings
+
+- In 2011, the national mean proportion of households without central heating was 2.54% (median 2.27%) across Local Authority Districts.
+- Private rental tenure was the dominant structural predictor of heating deprivation (standardised Bayesian Ridge coefficient: 1.43; 95% CI [1.34, 1.52]).
+- The 65+ age group showed a higher no-heat rate (2.80%) compared with 0–15 year olds (1.07%).
+- A Bayesian trend model projecting the 2011–2021 trajectory estimated a national mean of approximately 0.27% by 2031, with substantial uncertainty.
+- Interactive Tableau dashboards (choropleth maps, ranked bar charts, and scatter plots) were used to communicate geographic patterns and relationships for policy and planning audiences.
+
 ## Project overview
 
 The analysis pipeline is implemented in the notebook:
-
 - `python_scripts/main.ipynb`
 
 It covers:
