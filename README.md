@@ -4,7 +4,7 @@ This project analyses how household heating deprivation and health outcomes vary
 
 ## Research question
 
-What socio-economic factors — occupational class, housing tenure, and age — predict whether a household lacks central heating across Local Authorities in England and Wales, and does the absence of heating correlate with worse self-reported health outcomes between 2011 and 2021?
+What socio-economic factors; occupational class, housing tenure, and age, predict whether a household lacks central heating across Local Authorities in England and Wales, and does the absence of heating correlate with worse self-reported health outcomes between 2011 and 2021?
 
 ## Key findings
 
