@@ -1,0 +1,7 @@
+predictor,coef_mean,coef_std,ci_lower_95,ci_upper_95,significant
+pct_private_no_heat_2011,1.4275,0.0448,1.3396,1.5154,True
+pct_social_no_heat_2011,0.3641,0.0434,0.2791,0.4491,True
+pct_never_worked_2011,0.2286,0.0386,0.1528,0.3043,True
+pct_routine_occ_2011,0.2235,0.0353,0.1543,0.2926,True
+pct_bad_health_never_2011,0.0789,0.0416,-0.0027,0.1605,False
+pct_bad_health_routine_2011,-0.0737,0.0531,-0.1778,0.0304,False

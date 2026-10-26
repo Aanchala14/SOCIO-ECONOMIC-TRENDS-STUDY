@@ -1,0 +1,7 @@
+predictor,posterior_mean,posterior_std,ci_lower_95,ci_upper_95,significant
+pct_routine_occ_2011,1.2037,0.0671,1.0722,1.3351,True
+pct_never_worked_2011,0.7494,0.066,0.6201,0.8787,True
+pct_private_no_heat_2011,0.5954,0.1755,0.2514,0.9393,True
+pct_with_heat_2011,0.3638,0.5902,-0.793,1.5207,False
+pct_no_heat_age_50_64_2011,0.2109,0.3836,-0.5411,0.9628,False
+pct_no_heat_2011,-0.3638,0.5902,-1.5207,0.793,False
